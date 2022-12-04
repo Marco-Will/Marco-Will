@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-will&show_icons=true&locale=en&layout=compact" alt="marco-will" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-will&show_icons=true&locale=en" alt="marco-will" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco-will&" alt="marco-will" /></p>
